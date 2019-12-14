@@ -5,7 +5,8 @@ def using_while
   
   
   
-  wh
+  while levitation_force < 10
+   puts 
 end
 
 
